@@ -10,7 +10,7 @@ require_once "vendor/autoload.php";
 $connectionParams = [
     'dbname'   => 'orm',
     'user'     => 'root',
-    'password' => '123dinuka123.',
+    'password' => '....',
     'host'     => '127.0.0.1',
     'driver'   => 'pdo_mysql', // Use 'pdo_pgsql' for PostgreSQL
 ];
